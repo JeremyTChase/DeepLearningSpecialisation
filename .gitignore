@@ -1,3 +1,4 @@
+glove.6B.50d.*
 *.Identifier
 *.*.Identifier
 *.pyc
@@ -26,3 +27,4 @@ C4_W2_Assignment2/dataset/alpaca/*.*
 C4_W2_Assignment1/models/checkpoint
 C4_W2_Assignment1/models/resnet50.index
 C2_W3_Assignment_TensorFlow/logs/fit/20200908-171311/validation/events.out.tfevents.1599585199.0838b7aa493f.43.48647.v2
+C5_W2_Assignment2/data/fake_glove.6B.50d.txt
